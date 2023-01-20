@@ -1,0 +1,15 @@
+C:\Users\giant\source\repos\ClientServerApp\ClientServerApp\bin\Debug\ClientServerApp.exe.config
+C:\Users\giant\source\repos\ClientServerApp\ClientServerApp\bin\Debug\ClientServerApp.exe
+C:\Users\giant\source\repos\ClientServerApp\ClientServerApp\bin\Debug\ClientServerApp.pdb
+C:\Users\giant\source\repos\ClientServerApp\ClientServerApp\bin\Debug\ClientServerApp.xml
+C:\Users\giant\source\repos\ClientServerApp\ClientServerApp\obj\Debug\ClientServerApp.vbproj.AssemblyReference.cache
+C:\Users\giant\source\repos\ClientServerApp\ClientServerApp\obj\Debug\ClientServerApp.vbproj.SuggestedBindingRedirects.cache
+C:\Users\giant\source\repos\ClientServerApp\ClientServerApp\obj\Debug\ClientServerApp.Resources.resources
+C:\Users\giant\source\repos\ClientServerApp\ClientServerApp\obj\Debug\ClientServerApp.vbproj.GenerateResource.cache
+C:\Users\giant\source\repos\ClientServerApp\ClientServerApp\obj\Debug\ClientServerApp.vbproj.CoreCompileInputs.cache
+C:\Users\giant\source\repos\ClientServerApp\ClientServerApp\obj\Debug\ClientServerApp.exe
+C:\Users\giant\source\repos\ClientServerApp\ClientServerApp\obj\Debug\ClientServerApp.xml
+C:\Users\giant\source\repos\ClientServerApp\ClientServerApp\obj\Debug\ClientServerApp.pdb
+C:\Users\giant\source\repos\ClientServerApp\ClientServerApp\obj\Debug\ClientServerApp.LinearReg.resources
+C:\Users\giant\source\repos\ClientServerApp\ClientServerApp\obj\Debug\ClientServerApp.AddDialog.resources
+C:\Users\giant\source\repos\ClientServerApp\ClientServerApp\obj\Debug\ClientServerApp.StatsDialog.resources
